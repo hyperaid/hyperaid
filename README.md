@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 3rd Year B.Tech Student | Software Engineering Enthusiast | IIIT Bhagalpur<br><br>🎯 Aspiring Software Engineer with a focus on Web Development<br><br>💻 Proficient in React, HTML, CSS, JavaScript, C++, node.js, and Python<br><br>🌐 Keen interest in building user-friendly and visually appealing web applications<br><br>🔨 Strong problem-solving skills and a detail-oriented approach to coding<br><br>🌱 Continuous learner, always exploring new technologies and frameworks<br><br>💡 Proven ability to work collaboratively in team environments and meet project deadlines<br><br>🚀 Seeking internships or opportunities to apply and enhance my programming skills
+👨‍🎓 4th Year B.Tech Student | Software Engineering Enthusiast | IIIT Bhagalpur<br><br>🎯 Aspiring Software Engineer with a focus on Web Development<br><br>💻 Proficient in React, HTML, CSS, JavaScript, C++, node.js, and Python<br><br>🌐 Keen interest in building user-friendly and visually appealing web applications<br><br>🔨 Strong problem-solving skills and a detail-oriented approach to coding<br><br>🌱 Continuous learner, always exploring new technologies and frameworks<br><br>💡 Proven ability to work collaboratively in team environments and meet project deadlines<br><br>🚀 Seeking internships or opportunities to apply and enhance my programming skills
 
 
 ## 🌐 Socials:
